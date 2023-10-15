@@ -1,2 +1,1 @@
-# GeneticAlgorithms_SetTimetable
-Artificial Intelligence-CA2
+ Timetable Scheduling Using Genetic Algorithms
