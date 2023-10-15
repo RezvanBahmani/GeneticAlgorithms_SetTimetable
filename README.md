@@ -1,0 +1,2 @@
+# GeneticAlgorithms_SetTimetable
+Artificial Intelligence-CA2
